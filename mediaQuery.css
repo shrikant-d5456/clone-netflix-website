@@ -1,0 +1,65 @@
+@media screen and (max-width: 576px) {
+    body.index{
+        background-size: auto;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .lang{
+        font-size: 11px;
+        padding: 2% 0 2% 2%;
+        margin-right: 5%;
+    }
+    #navbar>a>button{
+        font-size: 11px;
+        padding: 2%;
+    }
+    .content{
+        margin-top: 20%;
+    }
+    .cont1{
+        display:flex;
+        flex-direction: column;
+    }
+    .cont1111{
+        height: 60px;
+    }
+    .tv>img{
+        width: 200%;
+    }
+    #email{
+        width: 80%;
+        padding:2%;
+        font-size: 15px;
+    }
+    .plus img {
+        width: 30px;
+        height: 30px;
+        filter: invert(1);
+    }
+    #getstarted{
+        background-color: red;
+        font-size: 11px;
+        padding:2%;
+        border: none;
+        border-radius: 5px;
+        font-weight: lighter;
+        margin: 10px;
+        float: unset;
+}
+    .para{
+        width: 80%;
+    }
+
+    body.forms{
+        height: 124vh;
+    }
+    .form{
+        width: 80%;
+      }
+    p{
+        font-weight: 100;
+        font-size:15px;
+        padding: 5%;
+      }
+}
